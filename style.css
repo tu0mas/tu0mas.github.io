@@ -162,7 +162,7 @@ header {
   width: 100%;
   padding: 32px;
   background: rgb(0 0 0 / .4);
-  border: solid 2px var(--clr-gray-700);
+  outline: solid 2px var(--clr-gray-700);
   border-radius: 16px;
   flex: 0 0 100%;
 }
@@ -335,7 +335,7 @@ header .social-link:hover p {
   display: flex;
   flex-direction: row;
   margin: 24px 0;
-  border: solid 2px var(--clr-gray-700);
+  outline: solid 2px var(--clr-gray-700);
   border-radius: 16px;
   overflow: hidden;
 }

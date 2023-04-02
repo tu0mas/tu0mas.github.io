@@ -2,36 +2,36 @@
   {
     "name":"Awkward clap",
     "command":"$awkwardclap",
-    "source":"https://youtu.be/ItN73Q4VRUU"
+    "source":"https://youtu.be/WLdz29p705s"
   },
   {
     "name":"Bébou ? 😳🥺",
     "command":"$bebou",
-    "source":"https://youtu.be/dQw4w9WgXcQ"
+    "source":"https://youtu.be/1ABOGlSXV9k"
   },
   {
     "name":"Bad to the Bone",
     "command":"$badtothebone",
-    "source":"https://youtu.be/B0daj71rUSU"
+    "source":"https://youtu.be/hkiNGPSLlrQ"
   },
   {
     "name":"Bruh",
     "command":"$bruh",
-    "source":"https://youtu.be/59qtpRxpNiI"
+    "source":"*"
   },
   {
     "name":"Fart",
     "command":"$fart",
-    "source":"https://youtu.be/tkc-Nwf5u9o"
+    "source":"*"
   },
   {
     "name":"Knock",
     "command":"$knock",
-    "source":"https://youtu.be/Xs-HbHCcK58"
+    "source":"https://youtu.be/nDAfnDnT2gA"
   },
   {
     "name":"Laugh",
     "command":"$laugh",
-    "source":"https://youtu.be/rEBjIfe7yjI"
+    "source":"*"
   }
 ]

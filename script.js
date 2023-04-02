@@ -75,7 +75,7 @@ const twitchPlayerOptions = {
   height: '100%',
   width: '100%',
   channel: "vred_0",
-  parent: ["https://tu0mas.github.io/"]
+  parent: ["tu0mas.github.io"]
 }
 const player = new Twitch.Player("twitch-player", twitchPlayerOptions)
 

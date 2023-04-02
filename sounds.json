@@ -1,0 +1,108 @@
+[ 
+  {
+    "name":"Fart",
+    "command":"!fart",
+    "source":"https://youtu.be/ItN73Q4VRUU"
+  },
+  {
+    "name":"Never gonna give you up",
+    "command":"!rickrolled",
+    "source":"https://youtu.be/dQw4w9WgXcQ"
+  },
+  {
+    "name":"Applause",
+    "command":"!clap",
+    "source":"https://youtu.be/B0daj71rUSU"
+  },
+  {
+    "name":"Bruh",
+    "command":"!bruh",
+    "source":"https://youtu.be/59qtpRxpNiI"
+  },
+  {
+    "name":"Bad to the bone",
+    "command":"!bad",
+    "source":"https://youtu.be/tkc-Nwf5u9o"
+  },
+  {
+    "name":"Friends",
+    "command":"!friends",
+    "source":"https://youtu.be/Xs-HbHCcK58"
+  },
+  {
+    "name":"CSGO Defuse",
+    "command":"!defuse",
+    "source":"https://youtu.be/rEBjIfe7yjI"
+  },
+  {
+    "name":"What are you doing in my swamp ?",
+    "command":"!swamp",
+    "source":"https://youtu.be/ESWSLrWa-e8"
+  },
+
+  {
+    "name":"Lion King",
+    "command":"!lionking",
+    "source":"https://youtu.be/GibiNy4d4gc"
+  },
+  {
+    "name":"Squidward walking",
+    "command":"!squidward",
+    "source":"https://youtu.be/W7oT3gtzevY"
+  },
+  {
+    "name":"Surprise",
+    "command":"!surprise",
+    "source":"https://youtu.be/buOuxo5oDWUQ"
+  },
+  {
+    "name":"Ba Dum Tss",
+    "command":"!badum",
+    "source":"https://youtu.be/H_NG1yXT6QY"
+  },
+  {
+    "name":"Sitcom laughter",
+    "command":"!sitcom",
+    "source":"https://youtu.be/3IC76o_lhFw"
+  },
+  {
+    "name":"Screaming",
+    "command":"!scream",
+    "source":"https://youtu.be/adtuUeRb4Ts"
+  },
+  {
+    "name":"Crying baby",
+    "command":"!cry",
+    "source":"https://youtu.be/oL2B-AAnsHo"
+  },
+  {
+    "name":"Yelling monkey",
+    "command":"!yell",
+    "source":"https://youtu.be/9ihNURlbPD0"
+  },
+  {
+    "name":"OOF",
+    "command":"!oof",
+    "source":"https://youtu.be/ekhLXXRIjI4"
+  },
+  {
+    "name":"Sad violin",
+    "command":"!violin",
+    "source":"https://youtu.be/TVRpcg01-XI"
+  },
+  {
+    "name":"Wilhhelm scream",
+    "command":"!wilhelm",
+    "source":"https://youtu.be/EbXUSatsCPw"
+  },
+  {
+    "name":"Duck quack",
+    "command":"!quack",
+    "source":"https://youtu.be/i4KQhQj1_6g"
+  },
+  {
+    "name":"Explosion",
+    "command":"!explosion",
+    "source":"https://youtu.be/5_2AteP2r6w"
+  }
+]

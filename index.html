@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vred Soundboard</title>
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="style.css">
+  <!-- Boxicons -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <!-- List JS -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+</head>
+
+<body>
+  
+  <header>
+      <div class="logo">
+        <div class="avatar">
+          <img src="assets/vrod.png" alt="avatar">
+        </div>
+        <p>Vred<span class="reduced-opacity">_0</span></p>
+      </div>
+      <div class="social-link">
+        <i class='bx bxl-discord-alt' ></i>
+        <p>Vred<span class="reduced-opacity">#0001</span></p>
+      </div>
+  </header>
+
+  
+
+  <main class="main-content">
+
+    <!-- Twitch embed -->
+    <div class="twitch-embed-container">
+      <div id="twitch-player"></div>
+      <div class="twitch-chat">
+        <iframe id="twitch-chat-embed"
+          src="https://www.twitch.tv/embed/vred_0/chat?parent=https://tu0mas.github.io/"
+          height="100%"
+          width="100%">
+        </iframe>
+      </div>
+    </div>
+    <button class="social-link" type="button" id="open-chat">Ouvrir le chat</button>
+    <!-- End of embed -->
+
+    <div class="soundboard" id="soundboard">
+      <h2>Soundboard<span class="reduced-opacity">_0</span></h2>
+      <div class="search-container">
+        <div class="input-container">
+          <input class="search" placeholder="Rechercher..." />
+        </div>
+        <button class="sort" data-sort="name">
+          <i class='bx bxs-sort-alt' ></i>
+        </button>
+      </div>
+      <ul class="list">
+        <!-- JSON data goes here -->
+      </ul>
+      <ul class="pagination"></ul>
+    </div>
+
+  </main> 
+  
+  <footer>
+    <div class="footer-main">
+      <a href="https://www.twitch.tv/vred_0" target="_blank" class="social-link">
+        <i class='bx bxl-twitch' ></i>
+        <p>Twitch</p>
+      </a>
+      <a href="https://twitter.com/vred_0" target="_blank" class="social-link">
+        <i class='bx bxl-twitter' ></i>
+        <p>Twitter</p>
+      </a>
+      <a href="https://steamcommunity.com/id/vred_0" target="_blank" class="social-link">
+        <i class='bx bxl-steam' ></i>
+        <p>Steam</p>
+      </a>
+      <a href="https://www.youtube.com/@vred_0/videos" target="_blank" class="social-link">
+        <i class='bx bxl-youtube'></i>
+        <p>YouTube</p>
+      </a>
+      <a href="https://scoresaber.com/u/76561198040296837" target="_blank" class="social-link">
+        <i class='bx bxs-cube' ></i>
+        <p>ScoreSaber</p>
+      </a>
+    </div>
+    <div class="footer-secondary reduced-opacity">
+      <p>© Copyright Vred <span class="current-year"></span></p>
+      <p>Made with ♥ by Yo#5000</p>
+    </div>
+  </footer>
+  
+  <div class="blur blur-blue"></div>
+  <div class="blur blur-pink"></div>
+
+  <div class="success-alert">
+    <i class='bx bxs-check-circle'></i>
+    <p>Commande copiée</p>
+  </div>
+
+  <script type="module" src="script.js"></script>
+  <!-- Twitch embed -->
+  <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+  
+</body>
+</html>

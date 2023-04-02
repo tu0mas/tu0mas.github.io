@@ -5,9 +5,6 @@
 let file = await fetch('./sounds.json')
 let soundItems = await file.json()
 
-// debug
-console.log(soundItems)
-
 // list JS (https://listjs.com/docs/)
 const options = {
   valueNames: [ 'name', 'command', {name: 'source', attr: 'href'} ],
@@ -92,9 +89,3 @@ openChatBtn.addEventListener('click', () => {
     openChatBtn.innerText = 'Fermer le chat'
   }
 })
-
-// for dev env : 
-// in HTML replace parent parameter in twitch embed url by 
-// src="https://www.twitch.tv/embed/vred_0/chat?parent=127.0.0.1"
-// in JS replace parent parameter in twitchPlayerOptions by
-// parent: ["localhost"]

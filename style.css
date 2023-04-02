@@ -293,7 +293,8 @@ ul.pagination {
   border-radius: 500px;
   font-size: .875rem;
 }
-.social-link:hover p {
+.social-link:hover p,
+button.social-link:hover {
   text-decoration: underline;
   opacity: .8;
 }
@@ -341,6 +342,7 @@ header .social-link:hover p {
 #twitch-player {
   width: 100%;
   max-width: var(--content-max-width);
+  transition: all .3s ease;
 }
 
 .twitch-chat {
@@ -351,10 +353,10 @@ header .social-link:hover p {
 }
 
 .chat-is-active #twitch-player {
-  width: 70%;
+  width: 0;
 }
 .chat-is-active .twitch-chat {
-  width: 30%;
+  width: 100%;
   transform: translateX(0);
 }
 

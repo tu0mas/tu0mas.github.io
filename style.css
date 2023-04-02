@@ -335,6 +335,7 @@ header .social-link:hover p {
   display: flex;
   flex-direction: row;
   margin: 24px 0;
+  border: solid 2px var(--clr-gray-700);
   border-radius: 16px;
   overflow: hidden;
 }

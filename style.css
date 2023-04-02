@@ -207,8 +207,10 @@ header {
 }
 
 .sound-item .command {
-  height: 28px;
-  padding: 5px 8px;
+  height: 32px;
+  padding: 6px 12px;
+  display: flex;
+  align-items: center;
   background: var(--clr-gray-100);
   color: var(--clr-black);
   border-radius: 500px;
@@ -222,6 +224,13 @@ header {
 }
 .sound-item .command:active {
   opacity: .2;
+}
+
+@media (max-width: 650px) {
+  .sound-item .command {
+    height: 42px;
+    padding: 0 16px;
+  }
 }
 
 /* **************PAGINATION**************** */

@@ -83,9 +83,9 @@ const twitchContainer = document.querySelector('.twitch-embed-container')
 openChatBtn.addEventListener('click', () => {
   if (twitchContainer.classList.contains('chat-is-active')) {
     twitchContainer.classList.remove('chat-is-active')
-    openChatBtn.innerText = 'Ouvrir le chat'
+    openChatBtn.innerText = 'Afficher le chat'
   } else {
     twitchContainer.classList.add('chat-is-active')
-    openChatBtn.innerText = 'Fermer le chat'
+    openChatBtn.innerText = 'Cacher le chat'
   }
 })

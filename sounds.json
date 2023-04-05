@@ -27,7 +27,7 @@
   {
     "name":"Fart 💨",
     "command":"$fart",
-    "source":"""
+    "source":""
   },
   {
     "name":"Knock 🚪",

@@ -10,28 +10,33 @@
     "source":"https://youtu.be/1ABOGlSXV9k"
   },
   {
-    "name":"Bad to the Bone",
+    "name":"Bad to the Bone 💀",
     "command":"$badtothebone",
     "source":"https://youtu.be/hkiNGPSLlrQ"
   },
   {
     "name":"Bruh",
     "command":"$bruh",
-    "source":"*"
+    "source":""
   },
   {
-    "name":"Fart",
+    "name":"C'est pas faux (Kaamelott)",
+    "command":"$cestpasfaux",
+    "source":"https://youtu.be/3w5cwBrvtf4"
+  },
+  {
+    "name":"Fart 💨",
     "command":"$fart",
-    "source":"*"
+    "source":"""
   },
   {
-    "name":"Knock",
+    "name":"Knock 🚪",
     "command":"$knock",
     "source":"https://youtu.be/nDAfnDnT2gA"
   },
   {
     "name":"Laugh",
     "command":"$laugh",
-    "source":"*"
+    "source":""
   }
 ]

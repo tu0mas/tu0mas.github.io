@@ -1,8 +1,13 @@
 [ 
   {
-    "name":"Awkward clap",
-    "command":"$awkwardclap",
-    "source":"https://youtu.be/WLdz29p705s"
+    "name":"✨ Anime Wow (Fairy Tail)",
+    "command":"$animewow",
+    "source":"https://youtu.be/etD7NXe6hPQ"
+  },
+  {
+    "name":"💀 Bad to the Bone",
+    "command":"$badtothebone",
+    "source":"https://youtu.be/hkiNGPSLlrQ"
   },
   {
     "name":"Bébou ? 😳🥺",
@@ -10,14 +15,14 @@
     "source":"https://youtu.be/1ABOGlSXV9k"
   },
   {
-    "name":"Bad to the Bone 💀",
-    "command":"$badtothebone",
-    "source":"https://youtu.be/hkiNGPSLlrQ"
-  },
-  {
     "name":"Bruh",
     "command":"$bruh",
-    "source":""
+    "source":"https://youtu.be/APyEATPHbIg"
+  },
+  {
+    "name":"C'est con ça (Etchebest)",
+    "command":"$cestconca",
+    "source":"https://youtu.be/_MnU1n-yods"
   },
   {
     "name":"C'est pas faux (Kaamelott)",
@@ -25,18 +30,33 @@
     "source":"https://youtu.be/3w5cwBrvtf4"
   },
   {
-    "name":"Fart 💨",
+    "name":"👏 Clap (Awkward)",
+    "command":"$awkwardclap",
+    "source":"https://youtu.be/WLdz29p705s"
+  },
+  {
+    "name":"Comment ça mon reuf (RebeuDeter)",
+    "command":"$commentca",
+    "source":"https://youtu.be/yrcMhMaFiw8"
+  },
+  {
+    "name":"💨 Fart",
     "command":"$fart",
     "source":""
   },
   {
-    "name":"Knock 🚪",
+    "name":"🚪 Knock (Jumpscare)",
     "command":"$knock",
     "source":"https://youtu.be/nDAfnDnT2gA"
   },
   {
-    "name":"Laugh",
+    "name":"🤣 Laugh",
     "command":"$laugh",
     "source":""
+  },
+  {
+    "name":"🤯 Vine Boom",
+    "command":"$vineboom",
+    "source":"https://youtu.be/_vBVGjFdwk4"
   }
 ]

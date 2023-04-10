@@ -86,6 +86,6 @@ openChatBtn.addEventListener('click', () => {
     openChatBtn.innerText = 'Afficher le chat'
   } else {
     twitchContainer.classList.add('chat-is-active')
-    openChatBtn.innerText = 'Cacher le chat'
+    openChatBtn.innerText = 'Masquer le chat'
   }
 })

@@ -1,5 +1,10 @@
 [ 
   {
+    "name":"Ah shit, here we go again",
+    "command":"$ahshit",
+    "source":"https://youtu.be/KOaeDHeJ80I"
+  },
+  {
     "name":"✨ Anime Wow (Fairy Tail)",
     "command":"$animewow",
     "source":"https://youtu.be/etD7NXe6hPQ"
@@ -53,6 +58,11 @@
     "name":"🤣 Laugh",
     "command":"$laugh",
     "source":""
+  },
+  {
+    "name":"👌 Nice",
+    "command":"$nice",
+    "source":"https://youtu.be/Akwm2UZJ34o?t=13"
   },
   {
     "name":"🤯 Vine Boom",

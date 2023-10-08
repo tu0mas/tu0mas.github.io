@@ -45,9 +45,19 @@
     "source":"https://youtu.be/WLdz29p705s"
   },
   {
+    "name":"Combien ??",
+    "command":"$combien",
+    "source":"https://youtu.be/LrMzEtgcglk"
+  },
+  {
     "name":"Comment ça mon reuf (RebeuDeter)",
     "command":"$commentca",
     "source":"https://youtu.be/yrcMhMaFiw8"
+  },
+  {
+    "name":"De toute beauté (Tour Montparnasse Infernale)",
+    "command":"$detoutebeaute",
+    "source":"https://youtu.be/O3VkRIO81UY"
   },
   {
     "name":"💨 Fart",

@@ -5,6 +5,11 @@
     "source":"https://youtu.be/KOaeDHeJ80I"
   },
   {
+    "name":"Alerte Psychopate",
+    "command":"$alertepsy",
+    "source":"https://youtu.be/-cqd6Vwf3jw"
+  },
+  {
     "name":"✨ Anime Wow (Fairy Tail)",
     "command":"$animewow",
     "source":"https://youtu.be/etD7NXe6hPQ"
@@ -13,6 +18,16 @@
     "name":"💀 Bad to the Bone",
     "command":"$badtothebone",
     "source":"https://youtu.be/hkiNGPSLlrQ"
+  },
+  {
+    "name":"Baragouine (TK78)",
+    "command":"$baragouine",
+    "source":"https://youtu.be/JUO_aRCM6eA"
+  },
+  {
+    "name":"Bat les couilles frère (Kaaris)",
+    "command":"$blcfrere",
+    "source":"https://youtu.be/ZuQ5yNpnvsw&t=17s"
   },
   {
     "name":"Bébou ? 😳🥺",
@@ -28,6 +43,11 @@
     "name":"C'est con ça (Etchebest)",
     "command":"$cestconca",
     "source":"https://youtu.be/_MnU1n-yods"
+  },
+  {
+    "name":"C'est honteux (René Maleville))",
+    "command":"$honteux",
+    "source":"https://youtu.be/NVu9s-6lCl8&t=188s"
   },
   {
     "name":"C'est pas faux (Kaamelott)",
@@ -65,6 +85,11 @@
     "source":""
   },
   {
+    "name":"J'adore rire",
+    "command":"$jadorerire",
+    "source":"https://youtu.be/dfiPBgEQNp4"
+  },
+  {
     "name":"🚪 Knock (Jumpscare)",
     "command":"$knock",
     "source":"https://youtu.be/nDAfnDnT2gA"
@@ -79,6 +104,16 @@
     "command":"$nice",
     "source":"https://youtu.be/Akwm2UZJ34o?t=13"
   },
+  {
+    "name":"C'est trop calme",
+    "command":"$",
+    "source":"https://youtu.be/URwsfbtujqI"
+  }
+  {
+    "name":"Tût FDP (Cyberpunk 2077)",
+    "command":"$tutfdp",
+    "source":"https://youtu.be/2PfY-T_-lRQ"
+  }
   {
     "name":"🤯 Vine Boom",
     "command":"$vineboom",
